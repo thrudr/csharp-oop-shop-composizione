@@ -1,5 +1,5 @@
 ﻿
-using Products;
+using CSharpShop;
 
 Console.WriteLine("CSharp Shop");
 

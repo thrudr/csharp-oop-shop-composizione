@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Products
+namespace CSharpShop
 {
     public class Article
     {
-        // FEATURES
+        // ATTRIBUTES
         private int code;
         private string name;
         private string description;
